@@ -2,7 +2,9 @@
 
 *基于Eager Execution | Based on Eager Execution*
 
-在线阅读 | Read online : https://tf.wiki 
+**重要：此版本（基于 TensorFlow 1.X）不再更新，基于 TensorFlow 2 的新版见 https://github.com/snowkylin/tensorflow-handbook 和 https://tf.wiki**
+
+在线阅读 | Read online : https://v1.tf.wiki 
 
 备用地址 | Alternative URL：https://snowkylin.github.io/TensorFlow-cn/
 
