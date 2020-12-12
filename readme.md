@@ -18,10 +18,10 @@ This handbook is a concise introduction to TensorFlow based on Eager Execution m
 
 PDF下载 | PDF download : 
 
-- (中文版 | Chinese): https://www.tensorflowers.cn/t/6230
+- (中文版 | Chinese): https://discuss.tf.wiki/t/topic/23
 - (英文版 | English): https://github.com/snowkylin/TensorFlow-cn/releases
 
 在线答疑区 | Online Q&A area : 
 
-- (中文 | Chinese): https://www.tensorflowers.cn/b/48
+- (中文 | Chinese): https://discuss.tf.wiki/
 - (英文 | English): https://github.com/snowkylin/TensorFlow-cn/issues
